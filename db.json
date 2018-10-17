@@ -2,13 +2,13 @@
    "result": {
       "Value": [
          {
-            "FirstName": "FirstName1",
-            "LastName": "LastName1",
-            "OIB": "string",
-            "Phone": "string",
-            "MObile": "string",
-            "Fax": "string",
-            "Email": "fname1lname1@abc.com"            
+            "FirstName": "Ana",
+            "LastName": "Babic",
+            "OIB": "36777743571",
+            "Phone": "+38512223333",
+            "MObile": "+385910000123",
+            "Fax": "+38591000523",
+            "Email": "ana.babic@oracle.com"            
          },
          {
             "FirstName": "FirstName2",
