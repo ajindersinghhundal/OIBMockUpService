@@ -8,7 +8,7 @@
             "Phone": "string",
             "MObile": "string",
             "Fax": "string",
-            "Email": "fname1lname1@abc.com",            
+            "Email": "fname1lname1@abc.com"            
          },
          {
             "FirstName": "FirstName2",
@@ -17,7 +17,7 @@
             "Phone": "string",
             "MObile": "string",
             "Fax": "string",
-            "Email": "fname2lname2@abc.com",  
+            "Email": "fname2lname2@abc.com"  
          },
         {
             "FirstName": "FirstName3",
@@ -26,7 +26,7 @@
             "Phone": "string",
             "MObile": "string",
             "Fax": "string",
-            "Email": "fname3lname3@abc.com",  
+            "Email": "fname3lname3@abc.com" 
          }
       ]
    }
