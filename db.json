@@ -1,31 +1,33 @@
 {
-  "personalDetails": [
-    {
-      "fName": "abc",
-      "lName": "xyz",
-      "oib":"",
-      "phone":"",
-      "mobile":"",
-      "fax":"",
-      "email":""
-    },
-    {
-      "fName": "def",
-      "lName": "uvw",
-      "oib":"",
-      "phone":"",
-      "mobile":"",
-      "fax":"",
-      "email":""
-    },
-    {
-      "fName": "stu",
-      "lName": "pqr",
-      "oib":"",
-      "phone":"",
-      "mobile":"",
-      "fax":"",
-      "email":""
-    }
-  ],
+   "result": {
+      "Value": [
+         {
+            "FirstName": "FirstName1",
+            "LastName": "LastName1",
+            "OIB": "string",
+            "Phone": "string",
+            "MObile": "string",
+            "Fax": "string",
+            "Email": "fname1lname1@abc.com",            
+         },
+         {
+            "FirstName": "FirstName2",
+            "LastName": "LastName2",
+            "OIB": "string",
+            "Phone": "string",
+            "MObile": "string",
+            "Fax": "string",
+            "Email": "fname2lname2@abc.com",  
+         },
+        {
+            "FirstName": "FirstName3",
+            "LastName": "LastName3",
+            "OIB": "string",
+            "Phone": "string",
+            "MObile": "string",
+            "Fax": "string",
+            "Email": "fname3lname3@abc.com",  
+         }
+      ]
+   }
 }
