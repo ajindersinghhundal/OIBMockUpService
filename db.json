@@ -1,0 +1,31 @@
+{
+  "personalDetails": [
+    {
+      "fName": "abc",
+      "lName": "xyz",
+      "oib":"",
+      "phone":"",
+      "mobile":"",
+      "fax":"",
+      "email":""
+    },
+    {
+      "fName": "def",
+      "lName": "uvw",
+      "oib":"",
+      "phone":"",
+      "mobile":"",
+      "fax":"",
+      "email":""
+    },
+    {
+      "fName": "stu",
+      "lName": "pqr",
+      "oib":"",
+      "phone":"",
+      "mobile":"",
+      "fax":"",
+      "email":""
+    }
+  ],
+}
